@@ -1,0 +1,37 @@
+caption{
+    color: white;
+}
+body{
+    background-color: black;
+}
+
+td{
+    border: solid white 2px;
+}
+
+table{
+    margin: 0 auto;
+}
+
+#filet{
+    border: solid green 4px;
+}
+
+.arriere{
+    height: 100px;
+}
+
+.milieu{
+    height: 300px;
+}
+.avant{
+    height: 125px;
+}
+
+.colonne14{
+    width: 40px;
+}
+
+.colonne23{
+    width: 160px;
+}
